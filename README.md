@@ -1,26 +1,11 @@
-<<<<<<< HEAD
-# [Google Cloud Progress Website](https://anishsahu10.github.io/Cloud-Study-Jam-Dashboard/)
-
-This is an application developed using `ReactJS`, `Material-UI` and `ChartJS`.
-Deployed on github-pages:
-[Google Cloud Progress Tracker](https://anishsahu10.github.io/Cloud-Study-Jam-Dashboard/)
-
-## Features
-
-- Display data using bar chart, pie chart, etc. (`ChartJS` library used)
-- Theme switcher implemented supporting `light` and `dark` themes.
-- `Dashboard` showing relevant information
-- `Sidebar` to navigate (only dashboard tab is implemented)
-=======
 # Google Cloud Progress Website
+
 This is an application developed using `ReactJS` and `Material-UI`.
 
 ## Features
 
-* Theme switcher implemented supporting `light` and `dark` themes.
-* `Dashboard` showing relevant information
-
->>>>>>> friend/main
+- Theme switcher implemented supporting `light` and `dark` themes.
+- `Dashboard` showing relevant information
 
 ## Installation and setup
 
