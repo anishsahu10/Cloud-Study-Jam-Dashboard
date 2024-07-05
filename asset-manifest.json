@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Cloud-Study-Jam-Dashboard/static/css/main.1ccb3fab.css",
-    "main.js": "/Cloud-Study-Jam-Dashboard/static/js/main.43eb733e.js",
+    "main.js": "/Cloud-Study-Jam-Dashboard/static/js/main.ca60db95.js",
     "static/media/data.csv": "/Cloud-Study-Jam-Dashboard/static/media/data.08cc03550ad3fc2cab49.csv",
     "static/media/rightColumnImg.png": "/Cloud-Study-Jam-Dashboard/static/media/rightColumnImg.cc3209b0bbbca9058856.png",
     "index.html": "/Cloud-Study-Jam-Dashboard/index.html",
     "main.1ccb3fab.css.map": "/Cloud-Study-Jam-Dashboard/static/css/main.1ccb3fab.css.map",
-    "main.43eb733e.js.map": "/Cloud-Study-Jam-Dashboard/static/js/main.43eb733e.js.map"
+    "main.ca60db95.js.map": "/Cloud-Study-Jam-Dashboard/static/js/main.ca60db95.js.map"
   },
   "entrypoints": [
     "static/css/main.1ccb3fab.css",
-    "static/js/main.43eb733e.js"
+    "static/js/main.ca60db95.js"
   ]
 }
